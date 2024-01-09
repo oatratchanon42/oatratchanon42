@@ -5,7 +5,7 @@ Freelance
 ---------
 
 * 🌍  I'm based in Phitsanulok
-* ✉️  You can contact me at [ratchanonj62@nu.ac .th](mailto:ratchanonj62@nu.ac .th)
+* ✉️  You can contact me at ratchanonj62@nu.ac .th
 * 🧠  I'm learning Next.js 14
 * ⚡  I want to be Full Stack Developer
 
